@@ -24,6 +24,7 @@
 		0260A24927C8C9EB00CF720F /* NetworkingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0260A24827C8C9EB00CF720F /* NetworkingManager.swift */; };
 		F5ED8BA427CBB4BC00145E5F /* CoinImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5ED8BA327CBB4BC00145E5F /* CoinImageView.swift */; };
 		F5ED8BA627CBB5F900145E5F /* CoinImageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5ED8BA527CBB5F900145E5F /* CoinImageService.swift */; };
+		F5ED8BA827CBBA8500145E5F /* CoinImageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5ED8BA727CBBA8500145E5F /* CoinImageViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		0260A24827C8C9EB00CF720F /* NetworkingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingManager.swift; sourceTree = "<group>"; };
 		F5ED8BA327CBB4BC00145E5F /* CoinImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinImageView.swift; sourceTree = "<group>"; };
 		F5ED8BA527CBB5F900145E5F /* CoinImageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinImageService.swift; sourceTree = "<group>"; };
+		F5ED8BA727CBBA8500145E5F /* CoinImageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinImageViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -190,6 +192,7 @@
 			isa = PBXGroup;
 			children = (
 				F5ED8BA327CBB4BC00145E5F /* CoinImageView.swift */,
+				F5ED8BA727CBBA8500145E5F /* CoinImageViewModel.swift */,
 			);
 			path = CoinImage;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				0260A22A27C74B6200CF720F /* Color.swift in Sources */,
 				0260A23827C75E3100CF720F /* CircleButtonAnimationView.swift in Sources */,
 				0260A23F27C7734200CF720F /* PreviewProvider.swift in Sources */,
+				F5ED8BA827CBBA8500145E5F /* CoinImageViewModel.swift in Sources */,
 				0260A24927C8C9EB00CF720F /* NetworkingManager.swift in Sources */,
 				0260A24127C7777400CF720F /* Double.swift in Sources */,
 				F5ED8BA627CBB5F900145E5F /* CoinImageService.swift in Sources */,
